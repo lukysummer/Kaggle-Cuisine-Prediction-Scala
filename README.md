@@ -1,6 +1,6 @@
 # Kaggle Cuisine Prediction in Scala
 
-<p align="center"><img src="img.jpg" width = "440" height = "256"></p>
+<p align="center"><img src="img.jpg" width = "700" height = "256"></p>
 
 This is my solution of Kaggle's [What's Cooking?- Kernels Only](https://www.kaggle.com/c/whats-cooking-kernels-only) competition,
 where the task was to **predict a dish's cuisine (e.g. Greek, Korean, etc.), given its list of ingredients**.
